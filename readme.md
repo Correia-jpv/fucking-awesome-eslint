@@ -73,6 +73,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 - [Node.js Standard Style](https://github.com/geek/node-style) - Node.js core config.
 - [eslint-config-prettier](https://github.com/prettier/eslint-config-prettier) - Prettier config for ESlint maintained by Prettier team.
+- [eslint-config-airbnb-extended](https://github.com/eslint-config/airbnb-extended) - A powerful ESLint configuration extending the popular Airbnb style guide, with added support for TypeScript.
 - [Standard](https://github.com/feross/standard) - JavaScript Standard Style.
 - [Superlint](https://github.com/supermind/superlint) - JavaScript Supermind Style.
 - [XO](https://github.com/sindresorhus/xo) - JavaScript happiness style linter ❤️.
